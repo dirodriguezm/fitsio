@@ -1,3 +1,3 @@
-module github.com/astrogo/fitsio
+module github.com/dirodriguezm/fitsio
 
 go 1.19
